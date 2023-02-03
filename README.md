@@ -2,6 +2,10 @@
 
 Let's ideate standards 💡
 
+{% content-ref url="nep-0000-template.md" %}
+[nep-0000-template.md](nep-0000-template.md)
+{% endcontent-ref %}
+
 ## Quickstart
 
 {% content-ref url="https://app.gitbook.com/o/wxNIOkA8NaT6omjLbqYh/s/eYMvXqEeHTuMsh7JRboR/" %}
