@@ -20,3 +20,6 @@ Let's ideate standards 💡
 [Community Groups](https://app.gitbook.com/o/wxNIOkA8NaT6omjLbqYh/s/Lk6pH07brRsxHEHhBO7d/)
 {% endcontent-ref %}
 
+{% content-ref url="https://app.gitbook.com/o/wxNIOkA8NaT6omjLbqYh/s/thv9RgvV6S5LYy0BQz01/" %}
+[Resources](https://app.gitbook.com/o/wxNIOkA8NaT6omjLbqYh/s/thv9RgvV6S5LYy0BQz01/)
+{% endcontent-ref %}
